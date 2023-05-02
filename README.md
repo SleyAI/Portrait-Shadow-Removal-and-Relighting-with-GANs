@@ -45,7 +45,7 @@ In addition download the [pretrained face parsing model ](https://drive.google.c
 You will also need [checkpoints for the ST-CGAN](https://drive.google.com/file/d/1GXx7fCgLqV-zWwR7YX7vBvFJI2Jg2dc9/view "ST-CGAN"). Put them under "models/st_cgan"
 
 ## Edit images ##
-After you have set up you environment and downloaded the checkpoints to the correct directories run the following 
+After you have set up your environment and downloaded the checkpoints to the correct directories run the following 
 command:
 
 ```
