@@ -1,8 +1,7 @@
 # GAN-based lighting correction on portrait images
 ![](images/readme_image.png)
 
-This is a framework for lighting correction on portrait images. It's GAN-based and this work is based on existing 
-GAN-based approaches for portrait image generation and styletransfer.
+This is the project page for "Unsupervised Shadow Removal and Relighting for Webcam Portrait Images with GANs" (paper submission in progress). We propose a framework for lighting correction on portrait images. This work is based on existing GAN-based approaches for portrait image generation and styletransfer.
 
 The basic idea of this work is the following:
 1. Project an image into the StyleGAN2 latent space to get the latent vector
