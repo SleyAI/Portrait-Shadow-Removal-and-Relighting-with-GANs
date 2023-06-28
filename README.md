@@ -34,14 +34,14 @@ encoder takes each over one week.
 There are pretrained checkpoints which you can use. You will need a directory "checkpoints" containing the following 
 files:
 * [e4e_ffhq_encode.pt](https://drive.google.com/file/d/19y6pxOiJWB0NoG3fAZO9Eab66zkN9XIL/view "e4e") (e4e Encoder)
-* [moco_v2_800ep_pretrain.pt](https://drive.google.com/file/d/18rLcNGdteX5LwT7sv_F7HWr12HpVEzVe/view "Moco V2") 
+* [moco_v2_800ep_pretrain.pt](https://drive.google.com/file/d/1Zx-meLUN4J_tQSKJylZ4OZlhxNXuXLDq/view?usp=sharing) 
   (used by e4e)
-* [model_ir_se50.pth](https://drive.google.com/file/d/1KW7bjndL3QG3sxBbZxreGHigcCCpsDgn/view "IR-SE50") (used by e4e)
+* [model_ir_se50.pth](https://drive.google.com/file/d/1V7N3P0xk3WDmBF19nfPq5Bbmunj5WdK0/view?usp=sharing) (used by e4e)
 * [stylegan2-ffhq-config-f.pt](https://drive.google.com/file/d/1EM87UquaoQmk17Q8d5kYIAHqu0dkYqdT/view "StyleGAN2") 
   (StyleGAN2-ada-PyTorch weights)
 
-In addition download the [pretrained face parsing model ](https://drive.google.com/file/d/154JgKpzCPW82qINcVieuPH3fZ2e0P812/view "face_parsing") and place it under "models/face_parsing".
-You will also need [checkpoints for the ST-CGAN](https://drive.google.com/file/d/1GXx7fCgLqV-zWwR7YX7vBvFJI2Jg2dc9/view "ST-CGAN"). Put them under "models/st_cgan"
+In addition download the [pretrained face parsing model ](https://drive.google.com/file/d/1jkUUUCdqoH_Nf7NtyvrocK8CENJJrSOc/view?usp=sharing) and place it under "models/face_parsing".
+You will also need [checkpoints for the ST-CGAN](https://drive.google.com/file/d/1bo2OcLoBCD3R3CRJFVOz17v6PZgJVB6m/view?usp=sharing). Put them under "models/st_cgan"
 
 ## Edit images ##
 After you have set up your environment and downloaded the checkpoints to the correct directories run the following 
